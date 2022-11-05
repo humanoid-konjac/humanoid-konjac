@@ -1,4 +1,4 @@
-- 👀 I’m interested in C++, Olympiad in Informatics and JavaScript.
+- 👀 I’m interested in C++, Competitive Programme and JavaScript.
 - 📫 Contact me through humanoid-konjac@foxmail.com or humanoid.konjac@gmail.com
 <!--- 🌱 I’m currently learning ...--->
 
